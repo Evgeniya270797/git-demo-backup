@@ -15,4 +15,7 @@ Some new features
 I will add commit to feature
 It is a feature
 
+for tags only
+
+
 
